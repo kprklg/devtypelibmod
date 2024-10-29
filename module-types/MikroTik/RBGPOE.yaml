@@ -1,19 +1,19 @@
 ---
 manufacturer: MikroTik
-model: RBPOE
-part_number: RBPOE
+model: RBGPOE
+part_number: RBGPOE
 weight: 50
 weight_unit: g
 front-ports:
   - name: IN1
     label: '1'
-    type: 8p4c
+    type: 8p8c
     rear_port: OUT1
     rear_port_position: 1
 rear-ports:
   - name: OUT1
     label: '1'
-    type: 8p4c
+    type: 8p8c
     positions: 1
     poe: true
     description: POE-OUT
@@ -21,5 +21,5 @@ power-ports:
   - name: DC
     label: DC
     type: dc-terminal
-    description: 10 - 28V DC
-comments: '[RBPOE Datasheet by Kolyan](https://mikrotik.com/product/RBPOE)'
+    description: 18 - 57V DC 2A
+comments: '[RBGPOE Datasheet by Kolyan](https://mikrotik.com/product/RBGPOE)'
