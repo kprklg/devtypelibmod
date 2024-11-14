@@ -11,7 +11,7 @@ rear_image: true
 subdevice_role: parent
 weight: 1.2
 weight_unit: kg
-default_platform: SecurityCode
+default_platform: Kontinent
 interfaces:
   - name: igb0
     label: '1'
