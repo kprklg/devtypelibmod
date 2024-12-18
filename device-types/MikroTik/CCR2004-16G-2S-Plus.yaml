@@ -1,11 +1,10 @@
 ---
 manufacturer: MikroTik
 model: CCR2004-16G-2S+
-slug: mikrotik-ccr2004-16g-2s+
+slug: mikrotik-ccr2004-16g-2s-plus
 part_number: CCR2004-16G-2S+
 is_full_depth: false
 u_height: 1
-airflow: front-to-rear
 front_image: true
 rear_image: true
 subdevice_role: parent
