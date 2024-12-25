@@ -71,6 +71,7 @@ interfaces:
 console-ports:
   - name: serial0
     type: rj-45
+    label: CONSOLE
 power-ports:
   - name: PSU1
     label: '1'
