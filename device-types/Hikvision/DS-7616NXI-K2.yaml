@@ -26,17 +26,17 @@ interfaces:
     type: other
     description: AV
   - name: hdmi
-    label: HDMI
+    label: 'HDMI'
     type: other  
   - name: vga
-    label: VGA
+    label: 'VGA'
     type: other
   - name: usb1
-    label: USB
+    label: 'USB'
     type: other
     description: Front    
   - name: usb2
-    label: USB
+    label: 'USB'
     type: other
     description: Back  
 power-ports:
