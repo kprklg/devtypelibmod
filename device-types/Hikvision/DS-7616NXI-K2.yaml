@@ -17,10 +17,10 @@ interfaces:
   - name: ether1
     label: 'LAN'
     type: 1000base-t
-  - name: 'AUDIO OUT'
+  - name: 'audio out'
     label: 'AUDIO OUT'  
     type: other
-  - name: 'AUDIO IN'
+  - name: 'audio in'
     label: 'AUDIO IN'  
     type: other
   - name: hdmi
