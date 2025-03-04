@@ -11,7 +11,7 @@ rear_image: true
 subdevice_role: parent
 weight: 1
 weight_unit: kg
-default_platform: Hik-Connect
+default_platform: 'Hik-Connect'
 interfaces:
   - name: ether1
     label: 'LAN'
