@@ -2,6 +2,7 @@
 manufacturer: Smartlabs
 model: SML-482 HD Base
 slug: smartlabs-sml-482-hd-base
+description: 'Smartlabs SML-482 HD Base'
 part_number: sml-482-hd-base
 is_full_depth: false
 u_height: 0

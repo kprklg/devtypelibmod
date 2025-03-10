@@ -2,6 +2,7 @@
 manufacturer: MikroTik
 model: hAP ac lite TC
 slug: mikrotik-hap-ac-lite-tc
+description: 'MikroTik hAP ac lite TC RB952Ui-5ac2nD-TC'
 part_number: RB952Ui-5ac2nD-TC
 is_full_depth: false
 u_height: 0
