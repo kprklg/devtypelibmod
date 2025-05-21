@@ -9,8 +9,8 @@ u_height: 1.0
 is_full_depth: false
 subdevice_role: parent
 airflow: passive
-weight: 0.288
-weight_unit: kg
+weight: 288
+weight_unit: g
 comments: '[Exegate EPPW-12-8P8C-C5e-FR EX256754RUS Datasheet by Kolyan](https://www.exegate.ru/catalogue/net/ppanel/ex256754.html)'
 front-ports:
 - name: '1'
