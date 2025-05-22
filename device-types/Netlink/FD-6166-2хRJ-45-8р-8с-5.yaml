@@ -4,14 +4,14 @@ model: FD-6166-2хRJ-45-8р-8с-5
 slug: fd-6166-2хrj-45-8р-8с-5
 description: Netlink FD-6166-2хRJ-45-8р-8с-5
 default_platform: null
-part_number: -
+part_number: 0
 u_height: 0.5
 is_full_depth: false
 subdevice_role: parent
 airflow: passive
 weight: 0.07
 weight_unit: kg
-comments: '[Exegate EPP3-10-12-8P8C-C6-110D EX297319RUS Datasheet by Kolyan](https://www.vseinstrumenti.ru/product/kompyuternaya-rozetka-netlink-fd-6166-2hrj-45-8r-8s-5-kat-00000000425-1751122/)'
+comments: '[Netlink FD-6166-2хRJ-45-8р-8с-5 Datasheet by Kolyan](https://www.vseinstrumenti.ru/product/kompyuternaya-rozetka-netlink-fd-6166-2hrj-45-8r-8s-5-kat-00000000425-1751122/)'
 front-ports:
 - name: '1'
   type: 8p8c
