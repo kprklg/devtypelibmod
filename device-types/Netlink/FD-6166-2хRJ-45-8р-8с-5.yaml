@@ -5,7 +5,7 @@ slug: fd-6166-2хrj-45-8р-8с-5
 description: Netlink FD-6166-2хRJ-45-8р-8с-5
 default_platform: null
 part_number: 0
-u_height: 0,5
+u_height: 0
 is_full_depth: false
 subdevice_role: parent
 airflow: passive
