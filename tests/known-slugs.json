@@ -1072,6 +1072,10 @@
 "device-types/APC/SRT2200RMXLI-NC.yaml"
 ],
 [
+"apc-smart-ups-srt-3000va-rm",
+"device-types/APC/SRT3000RMXLI.yaml"
+],
+[
 "apc-smart-ups-srt-5000va-200v",
 "device-types/APC/SRT5KXLJ.yaml"
 ],
@@ -1242,6 +1246,10 @@
 [
 "apc-srtl2k2rm1uinc",
 "device-types/APC/SRTL2K2RM1UINC.yml"
+],
+[
+"apc-srtl3krm1uinc",
+"device-types/APC/SRTL3KRM1UINC.yaml"
 ],
 [
 "apc-srv72rlbp-9a",
