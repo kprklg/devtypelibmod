@@ -32708,6 +32708,10 @@
 "device-types/Keenetic/KN-1210.yaml"
 ],
 [
+"keenetic-lite",
+"device-types/Keenetic/KN-1311.yaml"
+],
+[
 "keenetic-start",
 "device-types/Keenetic/KN-1111.yaml"
 ],
@@ -37246,6 +37250,10 @@
 [
 "opengear-im7248-2-dac-lr",
 "device-types/Opengear/IM7248-2-DAC-LR.yaml"
+],
+[
+"opengear-om1204-4e-l",
+"device-types/Opengear/OM1204-4E-L.yaml"
 ],
 [
 "opengear-om1208-8e-l",
