@@ -23308,6 +23308,10 @@
 "device-types/GMKtec/NucBox-G5.yaml"
 ],
 [
+"gmktec-nucbox5-n5105-8gb",
+"device-types/GMKtec/NucBox5-N5105-8GB.yaml"
+],
+[
 "good-connections-gc-n0078",
 "device-types/Good Connections/GC-N0078.yaml"
 ],
@@ -39484,6 +39488,10 @@
 "device-types/MikroTik/L22UGS-5HaxD2HaxD-15S.yaml"
 ],
 [
+"mikrotik-map-rbmap2nd",
+"device-types/MikroTik/RBmAP2nD.yaml"
+],
+[
 "mikrotik-netmetal-5shp",
 "device-types/MikroTik/RB921UAGS-5SHPacD-NM.yaml"
 ],
@@ -41838,6 +41846,10 @@
 [
 "opnsense-dec2770",
 "device-types/OPNsense/DEC2770.yaml"
+],
+[
+"oracle-exadata-x9m-2-database-server",
+"device-types/Oracle/Exadata-X9M-2-Database-Server.yaml"
 ],
 [
 "orange-livebox-6",
